@@ -1,0 +1,13 @@
+{
+  "itemGroup.llmine": "Example Mod Tab",
+  "block.llmine.example_block": "Example Block",
+  "item.llmine.example_item": "Example Item",
+
+  "llmine.configuration.title": "LLMine Configs",
+  "llmine.configuration.section.llmine.common.toml": "LLMine Configs",
+  "llmine.configuration.section.llmine.common.toml.title": "LLMine Configs",
+  "llmine.configuration.items": "Item List",
+  "llmine.configuration.logDirtBlock": "Log Dirt Block",
+  "llmine.configuration.magicNumberIntroduction": "Magic Number Text",
+  "llmine.configuration.magicNumber": "Magic Number"
+}
